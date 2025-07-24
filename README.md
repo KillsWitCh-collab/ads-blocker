@@ -5,6 +5,7 @@
 КАК УСТАНОВИТЬ (ДЛЯ LINUX DEBIAN/UBUNTU)
 
 Откройте терминал и введите одну команду. Скрипт всё сделает за вас.
+
 bash <(curl -sL https://raw.githubusercontent.com/KillsWitCh-collab/ads-blocker/main/install.sh)
 
 КАК УДАЛИТЬ
